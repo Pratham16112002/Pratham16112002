@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pratham Dhiman</h1>
 <h3 align="center">A full stack developer based in india</h3>
-<image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+clean+and+efficient+programs.">
+<p align="center">
+  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+clean+and+efficient+programs.">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham16112002&label=Profile%20views&color=0e75b6&style=flat" alt="pratham16112002" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratham16112002&label=Profile%20views&color=0e75b6&style=flat" alt="pratham16112002" /> </p>
 
 - 🌱 I’m currently learning **React Native , Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pratham16112002](https://github.com/Pratham16112002)
+- 👨‍💻 All of my projects are available at 📦 [here](https://github.com/Pratham16112002)
 
 - 💬 Ask me about **React , Node js , Linux , Javascript , C++ , Flutter**
 
-- 📫 How to reach me **prathamdhiman@rediffmail.com**
+- 📫 How to reach 👉 [me](mailto:prathamdhiman@rediffmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N544n8yOhgDlpgRBD8wjxaEhjpop1SeD/view?usp=sharing](https://drive.google.com/file/d/1N544n8yOhgDlpgRBD8wjxaEhjpop1SeD/view?usp=sharing)
+- 📄 Know about my experiences 📝 [Resume](https://drive.google.com/file/d/1N544n8yOhgDlpgRBD8wjxaEhjpop1SeD/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
